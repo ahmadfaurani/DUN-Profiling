@@ -1,0 +1,61 @@
+# DUN Profiling V1 — Git Ignore
+
+## Sensitive Data
+*.env
+.env.local
+.env.production
+credentials.json
+service-account.json
+*.pem
+*.key
+rclone.conf
+
+## API Keys
+api_keys.txt
+secrets.yaml
+secrets.yml
+
+## Local Development
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+.env
+node_modules/
+
+## IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Logs
+*.log
+logs/
+
+## Temporary Files
+tmp/
+temp/
+*.tmp
+*.bak
+
+## SPR Data (Do not upload raw XLSX files)
+*.xlsx
+*.xls
+raw-data/
+spr-data/
+
+## Memory Files (Store in /home/p62operator/memory/, not in repo)
+memory/*.md
+
+## Personal Notes
+notes.md
+personal-notes.md
+scratch.md
