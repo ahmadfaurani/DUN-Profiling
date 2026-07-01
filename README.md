@@ -24,7 +24,7 @@ Step 1: Demographics → PD-level voter composition (SPR XLSX)
 Step 2: Candidates   → Candidate profiles + demographic alignment (News + Nominations)
 Step 3: Historical   → Voting patterns + swing analysis (ElectionData.MY)
 Step 4: Synthesis    → Master operational brief (Integrated guidance)
-Step 5: GitHub Upload → Private repository with structured workspace
+Step 5: GitHub Upload → Public repository with structured workspace
 ```
 
 **Output:** 4 intelligence briefs per constituency (Demographic, Candidate, Historical, Master Operational)
@@ -114,11 +114,11 @@ All outputs pass mandatory CVS validation:
 
 ## 🔒 Access Control
 
-**Repository Visibility:** Private  
-**TLP Marking:** TLP:AMBER — Distribution limited to war room team only.
+**Repository Visibility:** Public  
+**TLP Marking:** TLP:AMBER — For reference only. Do not redistribute without attribution.
 
 **Collaborators:**
-- Add war room team members via GitHub Settings → Collaborators
+- This is a public reference repository. For contribution access, contact the Political Intelligence Team.
 
 ---
 
